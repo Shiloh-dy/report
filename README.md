@@ -333,3 +333,24 @@ El principal conflicto legal que ha enfrentado se relaciona con el uso de modelo
 Actualmente no cuenta con asesoría legal ni ha usado herramientas digitales, pero muestra apertura total a nuevas tecnologías, sobre todo si le brindan soluciones inmediatas. Aunque sus tareas legales no son frecuentes, reconoce que su rubro está expuesto constantemente a riesgos legales por desconocimiento del uso correcto de imágenes y modelos.
 
 Flavio valora enormemente la posibilidad de recibir ayuda especializada sobre propiedad intelectual y estaría dispuesto a pagar por una plataforma como LegalSpark, siempre que le brinde orientación concreta y accesible. Desea contar con asesorías virtuales, guías sobre derechos de autor y mecanismos de protección para sus creaciones. Esta entrevista pone de manifiesto la relevancia de abordar la legalidad en emprendimientos creativos, donde el desconocimiento puede llevar a consecuencias legales graves. LegalSpark puede posicionarse como un aliado clave para este tipo de emprendedores al ofrecer educación, prevención y acompañamiento legal digital.
+
+## 2.3. Needfinding
+
+### Segmento #1: Emprendedores en etapa temprana
+
+- Entender los requisitos legales para formalizar su negocio sin tener conocimientos jurídicos previos.
+- Acceder a documentos legales personalizados (contratos, acuerdos, actas) de forma rápida y sencilla.
+- Proteger sus ideas y negocios con recursos legales accesibles y confiables.
+- Evitar errores legales comunes que puedan generar problemas a futuro.
+
+### Segmento #2: Startups y pequeñas empresas
+
+- Cumplir con la normativa legal vigente de forma continua, sin depender de asesorías costosas.
+- Gestionar contratos, términos y condiciones, políticas de privacidad y otros documentos de forma automatizada.
+- Acceder a asesoría legal puntual sin altos costos ni procesos burocráticos.
+- Mejorar la organización interna y la toma de decisiones con herramientas legales claras y estructuradas.
+
+## 2.3.1. User Persona
+
+### User Persona – Segmento #1: Emprendedores
+
